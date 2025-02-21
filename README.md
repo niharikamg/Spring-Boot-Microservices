@@ -96,11 +96,5 @@ kubectl apply -f k8s-manifests/
 - ⚙️ **Maven & Lombok**
 - 🔎 **Zipkin & Sleuth for Tracing**
 
----
-## 📜 License
-This project is under the **MIT License**. Check the LICENSE file for details.
 
----
-## 🤝 Want to Contribute?
-Fork this repo, create a feature branch, and submit a PR! 🚀 Let's build something amazing together! 😊
 
